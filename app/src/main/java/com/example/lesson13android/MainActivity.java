@@ -47,12 +47,6 @@ public class MainActivity extends AppCompatActivity implements CounterContracts.
         binding.numberTv.setText(String.valueOf(count));
     }
 
-    @Override
-    public void ten() {
-
-    }
-
-
     public void greenView() {
         binding.numberTv.setTextColor(Color.parseColor("#4D9E50"));
     }

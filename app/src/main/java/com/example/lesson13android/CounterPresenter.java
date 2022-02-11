@@ -1,6 +1,5 @@
 package com.example.lesson13android;
 
-import android.widget.TextView;
 
 public class CounterPresenter implements CounterContracts.Presenter{
 
